@@ -1,0 +1,10 @@
+Your name: Glory Zhang
+Discussion: Design of peekTopN as explained above
+    I checked if the heap is empty and if the given variable n is not
+    a valid number (less than or equal to 0). If it is, I just return
+    a new ArrayList. Then I create a new ArrayList. I check if the 
+    number of elements is less than n, and if it is, just print the
+    entire heap. Otherwise, print up to n in the heap.
+How much time you spent on the assignment: 13 hours
+What did you learn?
+    How to use a stack to traverse a tree.
